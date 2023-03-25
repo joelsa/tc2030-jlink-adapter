@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "tc2030-adapter")(type "KiCad")(uri "${KIPRJMOD}/lib/tc2030-adapter.kicad_sym")(options "")(descr ""))
+)
